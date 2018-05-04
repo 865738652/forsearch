@@ -1,16 +1,9 @@
-/*
- * Copyright (c) 2016, BITMAIN and/or its affiliates. All rights reserved.
- * BITMAIN PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- */
 package com.zt.search.forsearch.config;
 
 import com.zt.search.forsearch.domain.BaseDomain;
-
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.ConcurrentSkipListSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
